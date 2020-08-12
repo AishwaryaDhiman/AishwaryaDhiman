@@ -1,4 +1,4 @@
-Welcome to my GitHub ✨
+Welcome to my GitHub Profile ✨
 
 🔭 I’m currently working on my algorithm and application development skills.
 
