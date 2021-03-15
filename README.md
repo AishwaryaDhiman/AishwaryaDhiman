@@ -8,6 +8,6 @@ Welcome to my GitHub Profile ✨
 
 Email: dhimanaishwarya8@gmail.com
 
-LinkedIn:   linkedin.com/in/aishwarya-dhiman 
+LinkedIn:   www.linkedin.com/in/aishwarya-dhiman
 
 
