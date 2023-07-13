@@ -1,6 +1,6 @@
 Welcome to my GitHub Profile ✨
 
-🔭 I’m currently working as a Software Engineer working on JavaScript and Python Frameworks.
+🔭 I’m a Software Engineer working on JavaScript and Python Frameworks.
 
 📫 How to reach me: 
 
